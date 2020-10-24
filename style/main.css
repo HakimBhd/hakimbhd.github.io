@@ -1,0 +1,12 @@
+.v-card__text,
+.v-card__title {
+  word-break: normal !important;
+}
+
+::-moz-selection { 
+  background: #EEFDF6;
+}
+
+::selection {
+  background: #EEFDF6;
+}
